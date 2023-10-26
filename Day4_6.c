@@ -4,7 +4,7 @@
 int main(){
 	int a=5,b=3;
     float c;
-	//clrscr();
+	clrscr();
 
     c = (float)a/(float)b;
     printf("%.2f",c);

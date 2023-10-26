@@ -4,7 +4,7 @@ int main()
 {
 	int num1,num2;
 	char ope;
-	//clrscr();
+	clrscr();
 
 	printf("\nEnter No.1 : ");
 	scanf("%d",&num1);

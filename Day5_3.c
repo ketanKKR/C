@@ -4,7 +4,7 @@
 int main(){
     char character;
     int assci;
-    //clrscr();
+    clrscr();
 
     printf("Enter Character: ");
     scanf("%c",&character);

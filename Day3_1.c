@@ -1,4 +1,4 @@
-//Day 3 Program 1
+//Salary
 #include <stdio.h>
 #include <conio.h>
 
